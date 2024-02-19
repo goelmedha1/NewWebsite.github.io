@@ -1,0 +1,23 @@
+*{
+    background-color: grey;
+
+}
+.img{
+    height: 50%;
+    border-radius: 5%;
+    object-fit: cover;
+    border-width: 10px;
+    border-color: black;
+}
+
+.pwebsite{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center; 
+}
+
+.pwebsite-resume{
+    padding: 15px;
+    color: white ;
+    background-color: white;
+}
